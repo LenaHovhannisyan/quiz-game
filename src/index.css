@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+}
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #570a7f;
+
+}
+#root{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  height: 100vh;
+}
+
+
